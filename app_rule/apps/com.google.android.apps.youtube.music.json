@@ -1,0 +1,16 @@
+{
+  "label": "YouTube Music",
+  "package": "com.google.android.apps.youtube.music",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1613258473,
+    "version_name": "4.14.50",
+    "version_code": 41450240
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
