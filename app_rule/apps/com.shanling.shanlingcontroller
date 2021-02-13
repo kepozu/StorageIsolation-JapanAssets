@@ -1,0 +1,16 @@
+{
+  "label": "Shanling Controller",
+  "package": "com.shanling.shanlingcontroller",
+  "authors": [
+    "kepozu"
+  ],
+  "last_update": {
+    "timestamp": 1613259613,
+    "version_name": "1.2.3",
+    "version_code": 23
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
