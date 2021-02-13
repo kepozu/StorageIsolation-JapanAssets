@@ -1,4 +1,4 @@
-# StorageRedirect-assets
+# StorageIsolation-assets
 
 Assets (rules, apks etc) for Storage Redirect app.
 
